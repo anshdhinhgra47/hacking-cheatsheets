@@ -1,3 +1,2 @@
 # hacking-tools-cheatsheet
-A cheatsheet that consists of the tools and frequent commands used in Ethical Hacking and Penetration Testing
-Source: COMPass Security
+All the reference sheets related to Ethical Hacking, Pen Testing and Web Exploitation
